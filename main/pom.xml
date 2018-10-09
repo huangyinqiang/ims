@@ -65,4 +65,9 @@
 
 
 
+    <modules>
+        <module>ims-eureka</module>
+
+    </modules>
+
 </project>
